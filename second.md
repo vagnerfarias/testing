@@ -6,7 +6,9 @@ Testing **bold**.
 
 Testing _italic._
 
-Testing \*bold\*.
+Testing **bold text.**
+
+**This should be normal.**
 
 Testing ~~strikethrough.~~
 
