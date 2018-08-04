@@ -16,7 +16,5 @@ Testing ~~strikethrough.~~
 Oh oh!
 {% endhint %}
 
-![](.gitbook/assets/screenshot-from-2018-08-03-11-18-28.png)
-
-
+{% embed data="{\"url\":\"https://pastebin.com/hJJWLBVh\",\"type\":\"rich\",\"title\":\"\[YAML\] heat\_template\_version: ocata  description: >    Software Config to drive os-net- - Pastebin.com\",\"icon\":{\"type\":\"icon\",\"url\":\"https://pastebin.com/favicon.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://pastebin.com/i/facebook.png\",\"width\":250,\"height\":250,\"aspectRatio\":1},\"embed\":{\"type\":\"reader\",\"url\":\"//pastebin.com/embed\_js/hJJWLBVh\",\"html\":\"<script type=\\\"application/javascript\\\" src=\\\"//pastebin.com/embed\_js/hJJWLBVh\\\"></script>\",\"aspectRatio\":0}}" %}
 
