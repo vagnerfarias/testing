@@ -12,5 +12,11 @@ This should be normal.
 
 Testing ~~strikethrough.~~
 
-{% file src=".gitbook/assets/screenshot-from-2018-08-03-11-18-28.png" caption="Hyperconverged" %}
+{% hint style="danger" %}
+Oh oh!
+{% endhint %}
+
+![](.gitbook/assets/screenshot-from-2018-08-03-11-18-28.png)
+
+
 
